@@ -6,7 +6,7 @@ The explanations were given in the lines of comments in the file "article.typ". 
 
 I have tried to used "include" for chapters, bibliography and appendix. The cross-reference system did not work. I therefore embeded everything in 1 single file "article.typ".
 
-I would be very grateful if some persons can amend for me.
+I would be very grateful if some persons can teach me and amend for me.
 
 The offical English Typst documentation is [here](https://typst.app/docs/).
 
