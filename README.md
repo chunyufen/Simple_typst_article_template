@@ -2,11 +2,33 @@
 
 This template does not use templates or packages from Typst Universe.
 
-The explanations were given in the lines of comments in the file "article.typ". Editing in accordance with the comments may change name of Title, names of authors, etc.
+The explanations were given in the lines of comments in the file "article.typ". 
 
-I have tried to used "include" for chapters, bibliography and appendix. The cross-reference system did not work. I therefore embeded everything in 1 single file "article.typ".
+Follow the comments and change name of Title, names of authors, etc.
 
-I would be very grateful if some persons can teach me and amend for me.
+In the outset, I attempted with the arrangements depicted by the files structure below.
+However, the cross-reference does not work, except for images.
+
+├── contents
+│   ├── intro.typ
+│   ├── literature_review.typ
+│   ├── method_1.typ
+│   ├── method_2.typ
+│   ├── discussion.typ
+│   ├── conclusion.typ
+├── images
+│   ├── image_1.typ
+│   ├── image_2.typ
+│   ├── image_3.typ
+├── bibliography
+│   ├── ref.bib
+├── appendix
+│   ├── appendix_1.typ
+│   ├── appendix_2.typ
+├── main.typ
+├── index.typ
+├── README.md
+└── .gitignore
 
 The offical English Typst documentation is [here](https://typst.app/docs/).
 
