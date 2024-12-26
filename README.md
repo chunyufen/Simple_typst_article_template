@@ -9,6 +9,7 @@ Follow the comments and change name of Title, names of authors, etc.
 In the outset, I attempted with the arrangements depicted by the files structure below.
 However, the cross-reference does not work, except for images.
 
+```
 ├── contents
 │   ├── intro.typ
 │   ├── literature_review.typ
@@ -29,6 +30,7 @@ However, the cross-reference does not work, except for images.
 ├── index.typ
 ├── README.md
 └── .gitignore
+```
 
 The offical English Typst documentation is [here](https://typst.app/docs/).
 
