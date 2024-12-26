@@ -7,6 +7,8 @@ The explanations were given in the lines of comments in the file "article.typ".
 Follow the comments and change name of Title, names of authors, etc.
 
 In the outset, I attempted with the arrangements depicted by the files structure below.
+
+The "index.typ" file controls the names of the files that I want to "include" in "main.typ".
 However, the cross-reference does not work, except for images.
 
 ```
