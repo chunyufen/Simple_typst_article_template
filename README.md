@@ -4,9 +4,9 @@ This template does not use templates or packages from Typst Universe.
 
 The explanations were given in the lines of comments in the file "article.typ". 
 
-Follow the comments and change name of Title, names of authors, etc.
+Follow the comments and change name of title, names of authors, etc.
 
-In the outset, I attempted with the arrangements depicted by the files structure below.
+In the outset, I attempted with the arrangements depicted by the files structure below. The main file is "main.typ" setting out configurations, like "article.typ".
 
 The "index.typ" file controls the names of the files that I want to "include" in "main.typ".
 However, the cross-reference does not work, except for images.
